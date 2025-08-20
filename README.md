@@ -1,2 +1,2 @@
 # jokes_game
-Program wat 'n grap aanbied wat toevallig is, net deur 'n nommer in te voer, en as dieselfde nommer herhaal word, is die resultaat ook toevallig.
+A program that presents a joke that is random, simply by entering a number, and if the same number is repeated, the result is also random.
